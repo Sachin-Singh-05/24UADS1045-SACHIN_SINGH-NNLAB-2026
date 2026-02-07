@@ -1,0 +1,8 @@
+WAP to visualize the Perceptron Learning Algorithm using numpy and matplotlib/seaborn in Python. 
+Evaluate performance of a single perceptron for NAND truth table as input dataset.    
+Put a 1 second delay after each epoch to observe step by step . Choose weights at random in the beginning, 
+when the final convergence is complete show final weights at the end of last epoch.   
+the output of epoch and loop as a table showing input values, predicted value, target, errors and also accuracy after each epoch.
+plot decision boundary graph and all graphs necessary for this algorithm after convergence is complete.  
+
+ 
