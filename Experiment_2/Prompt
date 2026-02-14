@@ -1,0 +1,7 @@
+WAP to implement a multi-layer perceptron (MLP) network with one hidden layer using numpy in Python . For this experiment we are using sigmoid activation function. Initialize with random weights and bias. put a delay of 300 ms  after each epoch  
+show output of each epoch as a table using input points, weights, target, predicted output, loss 
+plot graph 4 necessary graphs for this algorithm using matplotlib 
+when the convergence is complete show the final weights, accuracy
+try to use learning rate and no of epochs in an efficient way and avoid overfitting of data . 
+Demonstrate that it can learn the XOR Boolean function
+give me the code as a notebook
