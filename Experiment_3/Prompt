@@ -1,0 +1,6 @@
+3.	WAP to implement a three-layer neural network using Tensor flow library (only, no keras) to classify MNIST handwritten digits dataset. Demonstrate the implementation of feed-forward and back-propagation approaches. 
+give me W1 and W2 initially and updated result in the end , the loss and accuracy after each epoch and the 
+only if it cost less then i want to know the forward and backward propagation after each epoch 
+give me graphs related to the algorithm about weight updation , decrease in loss ,gradient change through layers and accuracy of the algorithm 
+use mini batch gradient descent 
+
