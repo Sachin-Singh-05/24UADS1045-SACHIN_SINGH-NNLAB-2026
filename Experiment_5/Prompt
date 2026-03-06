@@ -1,1 +1,6 @@
-
+5.	WAP to train and evaluate a convolutional neural network using Keras Library to classify MNIST fashion dataset. 
+i want to know the detail after every epoch like accuray, loss, input , output , overall weights of layers , 
+keep it efficient with high accuracy
+plot all the required graph for this experiment to analyze and understand about the model and algorithm 
+Demonstrate the effect of filter size, regularization, batch size and optimization algorithm on model performance. 
+and any possible graphs for this 
