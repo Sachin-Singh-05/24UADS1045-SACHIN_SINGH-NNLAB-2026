@@ -1,0 +1,18 @@
+: Use the Android App designed by your seniors to captures the readings from motion sensors (accelerometer and gyroscope)
+in an android phone. Build a dataset using this application that contains the motion characteristics of an average person
+driving a two-wheeler. Your dataset must contain these variations: Multiple riders, multiple vehicles, different speeds and
+different phone placements. Build a model that generates a Driving Score/Risk Score indicating the driving behavior of an
+individual.  Evaluate the trustworthiness for your model.
+
+in the dataset i have collected rating as stars from 1 to 5 , 1 is rough and unsafe and inexperienced driver and 5 is safe
+and experienced  driver 
+
+the rating has folder  of 1 star having multiple csv files and same for other ratings
+i am using colab and dataset is in google drive 
+
+
+the files i have are in excel format like 1 star have 20 to 30 csv and other ratings also same  
+how do i merge dataset to train and test the model and how to evaluate the driver based on that give me clear step by step
+instruction how to proceed with this dataset and how to create a model for this what activation function to use loss 
+function and other metrix in this 
+i want to use lstm rnn ,also remove rows which has all x,y,z axis of gyrometer or acelerometer as 0 give me code as a notebook 
