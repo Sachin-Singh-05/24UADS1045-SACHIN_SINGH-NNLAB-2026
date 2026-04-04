@@ -1,0 +1,4 @@
+6.	WAP to train and evaluate a Recurrent Neural Network using PyTorch Library to predict the next value
+in a sample time series dataset.
+also i want to know details of every epoch input output target predicted accuracy loss etc. 
+give me 4 graphs related to the algorithm 
