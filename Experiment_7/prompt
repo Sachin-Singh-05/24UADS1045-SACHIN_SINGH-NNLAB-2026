@@ -1,0 +1,5 @@
+7.	WAP to retrain a pretrained imagenet model to classify a medical image dataset. 
+also i want to know detail of each epoch as it trains , final acuuracy, confusion matrix ,
+then give me some relevant graphs for this model how it performs and for evaluation   
+for this give me code to use for notebook in kaggle and how to connect to kaggle gpu 
+path of dataset = /kaggle/input/datasets/paultimothymooney/chest-xray-pneumonia
